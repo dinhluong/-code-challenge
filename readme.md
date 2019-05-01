@@ -16,3 +16,10 @@ If number divisible by 3 and 5 print fizzbuzz, instead of number
 
 ~~~~
 
+## 3. Find the maximum number in slice
+
+~~~~
+
+~~~~
+
+
